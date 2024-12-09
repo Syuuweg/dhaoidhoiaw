@@ -1,0 +1,23 @@
+
+[
+
+    {
+      "title": "Unresolved Tickets",
+      "image": "https://via.placeholder.com/150",
+      "description": "12 tickets need your attention.",
+      "cta": "View Tickets"
+    },
+    {
+      "title": "Reports",
+      "image": "https://via.placeholder.com/150",
+      "description": "View detailed reports for this quarter.",
+      "cta": "View Reports"
+    },
+    {
+      "title": "New Feature!",
+      "image": "https://via.placeholder.com/150",
+      "description": "We just released a new feature. Check it out!",
+      "cta": "Learn More"
+    }
+  ]
+  
